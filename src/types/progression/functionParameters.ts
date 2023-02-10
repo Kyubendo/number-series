@@ -1,1 +1,0 @@
-export type FunctionParameter = {index: number, start?: number, common?: number}
